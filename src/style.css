@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Gogh';
+  src: url('assets/fonts/Gogh-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Gogh', sans-serif;
+  font-weight: 400;
+}
